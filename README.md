@@ -16,8 +16,8 @@ A dark, cyberpunk-inspired CTFd theme with red accents and modern styling. This 
 
 ## 📸 Screenshots
 
-### Main Interface
-![CTF Main Banner](images/ctf_main_banner.png)
+### Interface
+![Register Page](images/register.png)
 
 ### Challenges Pages
 | Challenge View 1 | Challenge View 2 |
@@ -32,10 +32,15 @@ A dark, cyberpunk-inspired CTFd theme with red accents and modern styling. This 
 |--------------|--------------|
 | ![Scoreboard 1](images/scoreboard_1.jpeg) | ![Scoreboard 2](images/socreboard_2.jpeg) |
 
+### Team Scoreboard Views
+| Scoreboard 1 | Scoreboard 2 |
+|--------------|--------------|
+| ![Scoreboard 1](images/team_score_page1.png) | ![Scoreboard 2](/images/teams_score_page2.png) |
+
 ### Teams & Rules
 | Teams Page | Rules Page |
 |------------|------------|
-| ![Teams](images/teams.jpeg) | ![Rules](images/rules.png) |
+| ![Teams](images/teams_page.png) | ![Rules](images/rules.png) |
 
 ## 🚀 Installation
 
